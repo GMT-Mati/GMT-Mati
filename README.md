@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming, especially its possibilities in the field of data, ML and AI. 
 - 🌱 I’m currently learning OOP, git, data analysis and ML. 
 - 💞️ I’m looking to collaborate on any project, searching my first job in IT. 
-- 📫 How to reach me: mail: gruszka.mateusz87@gmail.com 
+- 📫 How to reach me: mail: mateusz.gruszka@linux.pl
                       
 
 <!---
